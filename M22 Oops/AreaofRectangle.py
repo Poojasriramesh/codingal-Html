@@ -9,3 +9,4 @@ class Rectangle():
 newRectangle = Rectangle(12, 10)
 print("Dimension of Rectangle - Length : %d Width : %d" % (newRectangle.length, newRectangle.width))
 print("Area of Rectangle :", newRectangle.rectangle_area())
+print("hello")
